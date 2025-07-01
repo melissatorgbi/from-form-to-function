@@ -1,0 +1,10 @@
+CxN Type,Number,P/H/R,Annotation Targets - Gold Standard Relation
+None,5382,premise,A man crosses a busy city street.
+,5382,hypothesis,A man almost gets hit by a car.
+,5382,relation,1
+None,5383,premise,A man crosses a busy city street.
+,5383,hypothesis,A man runs across a road without paying attention to traffic.
+,5383,relation,2
+None,5384,premise,A man crosses a busy city street.
+,5384,hypothesis,"A man makes his way through traffic, no foot."
+,5384,relation,0

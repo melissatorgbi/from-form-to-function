@@ -1,0 +1,64 @@
+CxN Type	Number	P/H/R	Annotation Targets - Gold Standard Relation
+let-alone	31	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	31	hypothesis	"Beecher's reputation as a preacher, let alone as a Man of God, was not appreciated by his wife and family."
+	31	relation	1 (neutral)
+let-alone	32	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	32	hypothesis	Beecher's reputation as a Man of God was universally accepted.
+	32	relation	2 (contradiction)
+let-alone	33	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	33	hypothesis	"Beecher has a reputation that isn't widely accepted as a preacher, or even a Man of God."
+	33	relation	0 (entailment)
+way-manner	67	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	67	hypothesis	Mum just gave her sisters a mean look for laughing as she elbowed them out of the way into Granny's house.
+	67	relation	1 (neutral)
+way-manner	68	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	68	hypothesis	But Mum just gave them the biggest smile and hugged the two women as she went into Granny's house.
+	68	relation	2 (contradiction)
+way-manner	69	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	69	hypothesis	My Mum shoved her way past the two ladies and gave them one of her sour looks as she went into Granny's house
+	69	relation	0 (entailment)
+resultative	142	premise	He TICKLED her silly.
+	142	hypothesis	She was very ticklish.
+	142	relation	1 (neutral)
+resultative	143	premise	He TICKLED her silly.
+	143	hypothesis	He didn't touch her.
+	143	relation	2 (contradiction)
+resultative	144	premise	He TICKLED her silly.
+	144	hypothesis	She was silly from his tickling.
+	144	relation	0 (entailment)
+conative	202	premise	She plucked at the sheet with one hand then smoothed it.
+	202	hypothesis	She was testing the feel of the sheets on the bed.
+	202	relation	1 (neutral)
+conative	203	premise	She plucked at the sheet with one hand then smoothed it.
+	203	hypothesis	She roughed up the sheets on the bed with both hands.
+	203	relation	2 (contradiction)
+conative	204	premise	She plucked at the sheet with one hand then smoothed it.
+	204	hypothesis	With one hand she plucked at the sheet then smoothed it.
+	204	relation	0 (entailment)
+intransitive-motion	298	premise	I'll bet the email lies are FLYING back and forth.
+	298	hypothesis	There are emails coming from both sender and receiver.
+	298	relation	1 (neutral)
+intransitive-motion	299	premise	I'll bet the email lies are FLYING back and forth.
+	299	hypothesis	I'll bet the email lies are slowing down.
+	299	relation	2 (contradiction)
+intransitive-motion	300	premise	I'll bet the email lies are FLYING back and forth.
+	300	hypothesis	Email lies are flying back and forth I bet.
+	300	relation	0 (entailment)
+caused-motion	352	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	352	hypothesis	Mexican football club owner and 4 team members are charged with TRAFFICKING the very highest quality cocaine and marijuana from Colombia.
+	352	relation	1 (neutral)
+caused-motion	353	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	353	hypothesis	Mexican football club owner and 4 team members are charged with purchasing and selling cocaine and marijuana only within Columbia.
+	353	relation	2 (contradiction)
+caused-motion	354	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	354	hypothesis	Mexican football club owner and 4 team members are charged with illegally transporting cocaine and marijuana from Colombia to the United States.
+	354	relation	0 (entailment)
+comparative-correlative	466	premise	The fewer things we make the more sustainable we are.
+	466	hypothesis	Cheap things tend to be less sustainable.
+	466	relation	1 (neutral)
+comparative-correlative	467	premise	The fewer things we make the more sustainable we are.
+	467	hypothesis	We can reduce our production in order to move towards sustainability.
+	467	relation	0 (entailment)
+comparative-correlative	468	premise	The fewer things we make the more sustainable we are.
+	468	hypothesis	The way to increase our sustainability is to keep churning out new things.
+	468	relation	2 (contradiction)

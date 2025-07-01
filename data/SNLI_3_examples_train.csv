@@ -1,0 +1,28 @@
+CxN Type,Number,P/H/R,Annotation Targets - Gold Standard Relation
+None,148770,premise,"Little boy sits in car's driver's seat, grabbing the steering wheel."
+,148770,hypothesis,The child is sitting in the trunk of the car.
+,148770,relation,2
+None,148771,premise,"Little boy sits in car's driver's seat, grabbing the steering wheel."
+,148771,hypothesis,The child is trying to find the keys.
+,148771,relation,1
+None,148772,premise,"Little boy sits in car's driver's seat, grabbing the steering wheel."
+,148772,hypothesis,The boy is grabbing at the steering wheel.
+,148772,relation,0
+None,110955,premise,A gymnast practices on the rings.
+,110955,hypothesis,the gymnast is trying to get it perfect
+,110955,relation,0
+None,110956,premise,A gymnast practices on the rings.
+,110956,hypothesis,the gymnast took the day off
+,110956,relation,2
+None,110957,premise,A gymnast practices on the rings.
+,110957,hypothesis,there is a competition is coming up
+,110957,relation,1
+None,433197,premise,A woman uses a skimmer to clean an outdoor swimming pool.
+,433197,hypothesis,A woman is outdoors.
+,433197,relation,0
+None,433198,premise,A woman uses a skimmer to clean an outdoor swimming pool.
+,433198,hypothesis,The woman is getting ready to open her pool for summer.
+,433198,relation,1
+None,433199,premise,A woman uses a skimmer to clean an outdoor swimming pool.
+,433199,hypothesis,The woman has never seen a skimmer before.
+,433199,relation,2

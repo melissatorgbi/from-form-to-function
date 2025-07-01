@@ -1,0 +1,217 @@
+CxN Type	Number	P/H/R	Annotation Targets - Gold Standard Relation
+let-alone	31	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	31	hypothesis	"Beecher's reputation as a preacher, let alone as a Man of God, was not appreciated by his wife and family."
+	31	relation	1 (neutral)
+let-alone	32	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	32	hypothesis	Beecher's reputation as a Man of God was universally accepted.
+	32	relation	2 (contradiction)
+let-alone	33	premise	"Beecher's reputation as a preacher, let alone as a Man of God, was not universally accepted."
+	33	hypothesis	"Beecher has a reputation that isn't widely accepted as a preacher, or even a Man of God."
+	33	relation	0 (entailment)
+let-alone	25	premise	"How many modern Prime Ministers could recall such exploits in their past, let alone dare to boast about them?"
+	25	hypothesis	"Modern Prime Ministers are better at recalling their exploits, whereas past Prime Ministers were more boastful."
+	25	relation	1 (neutral)
+let-alone	26	premise	"How many modern Prime Ministers could recall such exploits in their past, let alone dare to boast about them?"
+	26	hypothesis	Most Prime Ministers would love to boast about their salacious past and recall them with others.
+	26	relation	2 (contradiction)
+let-alone	27	premise	"How many modern Prime Ministers could recall such exploits in their past, let alone dare to boast about them?"
+	27	hypothesis	It is more likely that a modern Prime Minister could recall such exploits in their past than it is likely for them to boast about those exploits.
+	27	relation	0 (entailment)
+let-alone	22	premise	"It's unsurprising that such an attitude failed to produce competent screenwriters, let alone exciting ones."
+	22	hypothesis	One's attitude could be associated with the failure of producing competent and exciting screenwriters.
+	22	relation	1 (neutral)
+let-alone	23	premise	"It's unsurprising that such an attitude failed to produce competent screenwriters, let alone exciting ones."
+	23	hypothesis	"Although such an attitude failed to produce competent screenwriters, it produced plenty of exciting screenwriters."
+	23	relation	2 (contradiction)
+let-alone	24	premise	"It's unsurprising that such an attitude failed to produce competent screenwriters, let alone exciting ones."
+	24	hypothesis	It's unsurprising that such an attitude failed to produce exciting screenwriters.
+	24	relation	0 (entailment)
+way-manner	67	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	67	hypothesis	Mum just gave her sisters a mean look for laughing as she elbowed them out of the way into Granny's house.
+	67	relation	1 (neutral)
+way-manner	68	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	68	hypothesis	But Mum just gave them the biggest smile and hugged the two women as she went into Granny's house.
+	68	relation	2 (contradiction)
+way-manner	69	premise	But Mum just gave them one of her black looks and elbowed her way past the two women and went into Granny's house.
+	69	hypothesis	My Mum shoved her way past the two ladies and gave them one of her sour looks as she went into Granny's house
+	69	relation	0 (entailment)
+way-manner	37	premise	"If this were to happen, would it not be unfair that other prisoners that do not have the means to pay and have committed 'lesser' crimes have to serve longer than those that can 'BUY' their way out of jail, so to speak?"
+	37	hypothesis	"If this were to happen, would it not be unfair that rich people, who tend to commit 'lesser' crimes, would have to serve in their local jails with much longer wait times to speak with their lawyers outside of jail?"
+	37	relation	1 (neutral)
+way-manner	38	premise	"If this were to happen, would it not be unfair that other prisoners that do not have the means to pay and have committed 'lesser' crimes have to serve longer than those that can 'BUY' their way out of jail, so to speak?"
+	38	hypothesis	"It would be very fair for even severe criminals to always be able to get out of jail for harsher crimes by having more money than other prisoners, even if others can't afford to do the same."
+	38	relation	2 (contradiction)
+way-manner	39	premise	"If this were to happen, would it not be unfair that other prisoners that do not have the means to pay and have committed 'lesser' crimes have to serve longer than those that can 'BUY' their way out of jail, so to speak?"
+	39	hypothesis	It would be quite unfair for other prisoners with less financial status and who have committed petty crimes to have to serve longer sentences than those that can buy their way out of their sentences.
+	39	relation	0 (entailment)
+way-manner	40	premise	"As you continue , you can see the path meandering its way up Ben Nevis in long zig-zags to the right of the Red Burn."
+	40	hypothesis	The path that meanders its way up Ben Nevis in long zig-zags to the right of the Red Burn finally ends at a beautiful picnic spot.
+	40	relation	1 (neutral)
+way-manner	41	premise	"As you continue , you can see the path meandering its way up Ben Nevis in long zig-zags to the right of the Red Burn."
+	41	hypothesis	"As you continue, you can see the path shoot ts way directly up Ben Nevis ina straight shot to the right of the Red Burn."
+	41	relation	2 (contradiction)
+way-manner	42	premise	"As you continue , you can see the path meandering its way up Ben Nevis in long zig-zags to the right of the Red Burn."
+	42	hypothesis	If you travel up the path to Ben Nevis you'll see there are long zig-zags next to the Red Burn.
+	42	relation	0 (entailment)
+resultative	142	premise	He TICKLED her silly.
+	142	hypothesis	She was very ticklish.
+	142	relation	1 (neutral)
+resultative	143	premise	He TICKLED her silly.
+	143	hypothesis	He didn't touch her.
+	143	relation	2 (contradiction)
+resultative	144	premise	He TICKLED her silly.
+	144	hypothesis	She was silly from his tickling.
+	144	relation	0 (entailment)
+resultative	109	premise	He TALKED himself blue in the face.
+	109	hypothesis	He talked a lot about himself to save face.
+	109	relation	1 (neutral)
+resultative	110	premise	He TALKED himself blue in the face.
+	110	hypothesis	He talked very little at all.
+	110	relation	2 (contradiction)
+resultative	111	premise	He TALKED himself blue in the face.
+	111	hypothesis	His face turned blue from his talking.
+	111	relation	0 (entailment)
+resultative	106	premise	He CRIED himself asleep.
+	106	hypothesis	He was saddened by something before bed.
+	106	relation	1 (neutral)
+resultative	107	premise	He CRIED himself asleep.
+	107	hypothesis	He was smiling himself awake.
+	107	relation	2 (contradiction)
+resultative	108	premise	He CRIED himself asleep.
+	108	hypothesis	He was going to sleep while crying.
+	108	relation	0 (entailment)
+conative	202	premise	She plucked at the sheet with one hand then smoothed it.
+	202	hypothesis	She was testing the feel of the sheets on the bed.
+	202	relation	1 (neutral)
+conative	203	premise	She plucked at the sheet with one hand then smoothed it.
+	203	hypothesis	She roughed up the sheets on the bed with both hands.
+	203	relation	2 (contradiction)
+conative	204	premise	She plucked at the sheet with one hand then smoothed it.
+	204	hypothesis	With one hand she plucked at the sheet then smoothed it.
+	204	relation	0 (entailment)
+conative	193	premise	He rubbed at the mark and shook his head.
+	193	hypothesis	He was annoyed at the mark.
+	193	relation	1 (neutral)
+conative	194	premise	He rubbed at the mark and shook his head.
+	194	hypothesis	He didn't touch the mark or move his head
+	194	relation	2 (contradiction)
+conative	195	premise	He rubbed at the mark and shook his head.
+	195	hypothesis	He shook his head and rubbed at the mark.
+	195	relation	0 (entailment)
+conative	220	premise	Jake sipped at the jug and didn't answer.
+	220	hypothesis	Jake was quiet when he drinks.
+	220	relation	1 (neutral)
+conative	221	premise	Jake sipped at the jug and didn't answer.
+	221	hypothesis	Jake didn't drink the jug as he answered.
+	221	relation	2 (contradiction)
+conative	222	premise	Jake sipped at the jug and didn't answer.
+	222	hypothesis	Jake didn't answer as he tried the jug.
+	222	relation	0 (entailment)
+intransitive-motion	298	premise	I'll bet the email lies are FLYING back and forth.
+	298	hypothesis	There are emails coming from both sender and receiver.
+	298	relation	1 (neutral)
+intransitive-motion	299	premise	I'll bet the email lies are FLYING back and forth.
+	299	hypothesis	I'll bet the email lies are slowing down.
+	299	relation	2 (contradiction)
+intransitive-motion	300	premise	I'll bet the email lies are FLYING back and forth.
+	300	hypothesis	Email lies are flying back and forth I bet.
+	300	relation	0 (entailment)
+intransitive-motion	283	premise	"The tornado that ADVANCED through southern Oklahoma City and Moore cut a 40-mile swath across the middle of the state, leaving concrete slabs where homes had been."
+	283	hypothesis	"The tornado that ADVANCED through southern Oklahoma City and Moore cut a 40-mile swath across the middle of the state, where there are hundreds of homes and two commercial farms."
+	283	relation	1 (neutral)
+intransitive-motion	284	premise	"The tornado that ADVANCED through southern Oklahoma City and Moore cut a 40-mile swath across the middle of the state, leaving concrete slabs where homes had been."
+	284	hypothesis	"The tornado went around southern Oklahoma City and Moore not cutting a 40-mile swath across the middle of the state, nor leaving concrete slabs where homes had been."
+	284	relation	2 (contradiction)
+intransitive-motion	285	premise	"The tornado that ADVANCED through southern Oklahoma City and Moore cut a 40-mile swath across the middle of the state, leaving concrete slabs where homes had been."
+	285	hypothesis	"A tornado left concrete slabs where homes had been, cutting a 40-mile swath in the middle of the state in southern Oklahoma City and Moore."
+	285	relation	0 (entailment)
+intransitive-motion	244	premise	Careful this floor board squeaks...cant SNEAK in late down this hallway
+	244	hypothesis	Careful this floor board squeaks…my dad built the house so that you cant SNEAK in late.
+	244	relation	1 (neutral)
+intransitive-motion	245	premise	Careful this floor board squeaks...cant SNEAK in late down this hallway
+	245	hypothesis	Careful this floor board is quiet.... you can sneak in late down this hallway.
+	245	relation	2 (contradiction)
+intransitive-motion	246	premise	Careful this floor board squeaks...cant SNEAK in late down this hallway
+	246	hypothesis	You have to be careful and not sneak in late down this hallway...this floor board squeaks.
+	246	relation	0 (entailment)
+caused-motion	352	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	352	hypothesis	Mexican football club owner and 4 team members are charged with TRAFFICKING the very highest quality cocaine and marijuana from Colombia.
+	352	relation	1 (neutral)
+caused-motion	353	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	353	hypothesis	Mexican football club owner and 4 team members are charged with purchasing and selling cocaine and marijuana only within Columbia.
+	353	relation	2 (contradiction)
+caused-motion	354	premise	Mexican football club owner and 4 team members are charged with TRAFFICKING cocaine and marijuana from Colombia to the United States.
+	354	hypothesis	Mexican football club owner and 4 team members are charged with illegally transporting cocaine and marijuana from Colombia to the United States.
+	354	relation	0 (entailment)
+caused-motion	337	premise	Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage what they can from their homes.
+	337	hypothesis	"Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage valuables, mostly jewelry and tech devices, from their homes."
+	337	relation	1 (neutral)
+caused-motion	338	premise	Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage what they can from their homes.
+	338	hypothesis	Mealman works in construction and parked his 16-foot trailer near the area to not help people salvage what they can from their homes.
+	338	relation	2 (contradiction)
+caused-motion	339	premise	Mealman works in construction and DROVE his 16-foot trailer to the area to help people salvage what they can from their homes.
+	339	hypothesis	Mealman brought his 16-foot trailer into the area to help people salvage what they can from their homes.
+	339	relation	0 (entailment)
+caused-motion	316	premise	I THREW the stone across the river.
+	316	hypothesis	I like to skip stones across the river.
+	316	relation	1 (neutral)
+caused-motion	317	premise	I THREW the stone across the river.
+	317	hypothesis	I threw the stone up and caught it again.
+	317	relation	2 (contradiction)
+caused-motion	318	premise	I THREW the stone across the river.
+	318	hypothesis	The stone was trown across the river by me.
+	318	relation	0 (entailment)
+causative-with-CxN	388	premise	He lay on the bed and covered his face with a blanket.
+	388	hypothesis	He covered himself with the blanket in bed out of embarrassment.
+	388	relation	1 (neutral)
+causative-with-CxN	389	premise	He lay on the bed and covered his face with a blanket.
+	389	hypothesis	He stood up and covered the bed with the blanket.
+	389	relation	2 (contradiction)
+causative-with-CxN	390	premise	He lay on the bed and covered his face with a blanket.
+	390	hypothesis	He covered his face with a blanket as he lay on the bed.
+	390	relation	0 (entailment)
+causative-with-CxN	385	premise	Rosa covered his face with kisses.
+	385	hypothesis	Rosa's red lipstick covered his face.
+	385	relation	1 (neutral)
+causative-with-CxN	386	premise	Rosa covered his face with kisses.
+	386	hypothesis	Rosa didn't cover his face with kisses.
+	386	relation	2 (contradiction)
+causative-with-CxN	387	premise	Rosa covered his face with kisses.
+	387	hypothesis	His face was covered with kisses by Rosa.
+	387	relation	0 (entailment)
+causative-with-CxN	403	premise	She's also covered her body with tattoos.
+	403	hypothesis	She's covered her body with tattoos of worms and roses.
+	403	relation	1 (neutral)
+causative-with-CxN	404	premise	She's also covered her body with tattoos.
+	404	hypothesis	She's also removed her body of tattoos.
+	404	relation	2 (contradiction)
+causative-with-CxN	405	premise	She's also covered her body with tattoos.
+	405	hypothesis	Her body is also covered in tattoos.
+	405	relation	0 (entailment)
+comparative-correlative	466	premise	The fewer things we make the more sustainable we are.
+	466	hypothesis	Cheap things tend to be less sustainable.
+	466	relation	1 (neutral)
+comparative-correlative	467	premise	The fewer things we make the more sustainable we are.
+	467	hypothesis	We can reduce our production in order to move towards sustainability.
+	467	relation	0 (entailment)
+comparative-correlative	468	premise	The fewer things we make the more sustainable we are.
+	468	hypothesis	The way to increase our sustainability is to keep churning out new things.
+	468	relation	2 (contradiction)
+comparative-correlative	463	premise	"The longer the rain lasted, the more quickly the ramparts melted."
+	463	hypothesis	"The rain was very warm, causing the ramparts to melt."
+	463	relation	1 (neutral)
+comparative-correlative	464	premise	"The longer the rain lasted, the more quickly the ramparts melted."
+	464	hypothesis	The ramparts were liable to be damaged by water.
+	464	relation	0 (entailment)
+comparative-correlative	465	premise	"The longer the rain lasted, the more quickly the ramparts melted."
+	465	hypothesis	The ramparts were not affected by heavy rain.
+	465	relation	2 (contradiction)
+comparative-correlative	451	premise	"The lower the prices, the more you will sell."
+	451	hypothesis	Profits will skyrocket if we lower prices.
+	451	relation	1 (neutral)
+comparative-correlative	452	premise	"The lower the prices, the more you will sell."
+	452	hypothesis	Lowering prices will increase demand for our product.
+	452	relation	0 (entailment)
+comparative-correlative	453	premise	"The lower the prices, the more you will sell."
+	453	hypothesis	Lowering prices will make less people buy your product.
+	453	relation	2 (contradiction)

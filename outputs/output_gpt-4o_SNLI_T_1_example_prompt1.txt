@@ -1,0 +1,67 @@
+Overall metrics
+number: 390
+accuracy: 0.89
+F1 Score for each label: [0.88888889 0.83333333 0.94074074]
+
+schematicity: substantive
+number: 24
+accuracy: 0.92
+F1 Score for each label: [0.94117647 0.85714286 0.94117647]
+
+schematicity: partial
+number: 195
+accuracy: 0.86
+F1 Score for each label: [0.87218045 0.78991597 0.91304348]
+
+schematicity: schematic
+number: 171
+accuracy: 0.92
+F1 Score for each label: [0.9        0.87850467 0.97391304]
+
+CxG: let-alone
+schematicity: substantive
+number: 24
+accuracy: 0.92
+F1 Scorefor each label: [0.94117647 0.85714286 0.94117647]
+
+CxG: way-manner
+schematicity: partial
+number: 33
+accuracy: 0.88
+F1 Scorefor each label: [0.88       0.8        0.95238095]
+
+CxG: resultative
+schematicity: schematic
+number: 66
+accuracy: 0.91
+F1 Scorefor each label: [0.9047619  0.86363636 0.95652174]
+
+CxG: conative
+schematicity: partial
+number: 78
+accuracy: 0.86
+F1 Scorefor each label: [0.87272727 0.76595745 0.92592593]
+
+CxG: intransitive-motion
+schematicity: schematic
+number: 69
+accuracy: 0.93
+F1 Scorefor each label: [0.90196078 0.87804878 1.        ]
+
+CxG: caused-motion
+schematicity: schematic
+number: 36
+accuracy: 0.92
+F1 Scorefor each label: [0.88888889 0.90909091 0.95652174]
+
+CxG: causative-with-CxN
+schematicity: partial
+number: 54
+accuracy: 0.93
+F1 Scorefor each label: [0.94736842 0.875      0.94736842]
+
+CxG: comparative-correlative
+schematicity: partial
+number: 30
+accuracy: 0.73
+F1 Scorefor each label: [0.66666667 0.7        0.8       ]

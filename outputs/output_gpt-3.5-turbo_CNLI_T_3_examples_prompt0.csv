@@ -1,0 +1,101 @@
+CxG,schematicity,Premise,Hypothesis,Gold,Prediction
+resultative,schematic,A famous emperor buried China’s scholars alive with their books .,China's scholars were fully alive before a famous emperor buried them.,0,2
+resultative,schematic,A famous emperor buried China’s scholars alive with their books .,Burying caused the scholars to become alive.,2,2
+resultative,schematic,I bought the apples fresh.,The apples were completely fresh before I bought them.,0,0
+resultative,schematic,I bought the apples fresh.,Buying caused the apples to become fresh.,2,1
+resultative,schematic,Any other bull would have drowned but U-bolt's energy kept him alive until help arrived .,U-bolt was fully alive before his energy kept him.,0,1
+resultative,schematic,Any other bull would have drowned but U-bolt's energy kept him alive until help arrived .,U-bolt's energy caused him to become alive through keeping.,2,0
+conative,partial,I work at home.,I work away from home.,2,2
+conative,partial,The mother of one of the convicted gang members went to pray at St. Patrick's Cathedral where O'Brien was then a priest on duty.,St. Patrick's Cathedral was the target of the mother's praying.,2,1
+conative,partial,He was assigned to teach at a school in the small rural village.,He taught in the opposite direction of the school.,2,2
+conative,partial,He was assigned to teach at a school in the small rural village.,The school was the target of his teaching.,2,1
+conative,partial,Other units exploded at this complex.,This complex was not the target of the exploding motion.,1,2
+caused-motion,schematic,"The Republicans are pushing programs they believe will endear them to senior citizens, and of course, the Democrats are doing the same thing.",The Republicans are pushing programs that they believe will cause them to travel to senior citizens by endearing them.,2,1
+caused-motion,schematic,"Across the hall, a death wail alerted us to a four-year-old child clinging to life.",We stayed in the same place.,1,1
+caused-motion,schematic,I introduced her to my boss.,She remained in the same place.,1,1
+caused-motion,schematic,"Across the hall, a death wail alerted us to a four-year-old child clinging to life.",A death wail caused us to change locations by alerting us.,2,1
+caused-motion,schematic,These node handles easily survive changes to the tree .,These node handles cause changes to changes to remain in the same place.,1,1
+caused-motion,schematic,These node handles easily survive changes to the tree .,These node handles cause changes to end up on the tree.,2,1
+intransitive-motion,schematic,They are sorting through the sludge and the mud to recover any part of their former life.,"They are sorting, staying in a static location.",1,1
+intransitive-motion,schematic,They are sorting through the sludge and the mud to recover any part of their former life.,They travel by sorting.,2,1
+intransitive-motion,schematic,They're listening to the same podcast.,"They're listening, staying in one place.",1,1
+intransitive-motion,schematic,They're listening to the same podcast.,They're traveling to the podcast by listening.,2,1
+intransitive-motion,schematic,He spoke to the workers on the street corner.,"He spoke, staying in one place.",1,1
+intransitive-motion,schematic,He spoke to the workers on the street corner.,He changed locations by speaking.,2,1
+causative-with-CxN,partial,He hit the lamp with his head.,The lamp does not contain his head.,0,2
+causative-with-CxN,partial,He hit the lamp with his head.,He caused the lamp to contain his head.,2,2
+causative-with-CxN,partial,I can use a mouse with my left hand.,My left hand is not contained in the mouse.,0,2
+causative-with-CxN,partial,I can use a mouse with my left hand.,A mouse contains my left hand in it.,2,1
+causative-with-CxN,partial,I ate the chicken with a side of fries.,There is not a side of fries contained in the chicken.,0,2
+causative-with-CxN,partial,I ate the chicken with a side of fries.,I caused the chicken to contain a side of fries by eating the chicken.,2,1
+resultative,schematic,"Professor Hikmahanto Juwana , Chairman of the ASLI Board of Governors , and Dean at the Faculty of Law , University of Indonesia , addressed the participants next .",Professor Hikmahanto Juwana caused the participants to be next by addressing them.,2,1
+resultative,schematic,"Professor Hikmahanto Juwana , Chairman of the ASLI Board of Governors , and Dean at the Faculty of Law , University of Indonesia , addressed the participants next .",Professor Hikmahanto Juwana did not cause the participants to be next by addressing them.,0,1
+resultative,schematic,Give her reasons to continually find you stimulating .,She causes you to become stimulating by finding you.,2,1
+resultative,schematic,Give her reasons to continually find you stimulating .,You were stimulating before she found you.,1,1
+resultative,schematic,"You might want allies to believe the same thing , or you might want them to believe something different .",You cause something to be different by believing.,2,1
+resultative,schematic,"You might want allies to believe the same thing , or you might want them to believe something different .",Something was different before you believed it.,1,1
+resultative,schematic,"And yes, those hallucinations keep it interesting!",It was interesting before those hallicunations kept them.,0,1
+resultative,schematic,"And yes, those hallucinations keep it interesting!",Those hallucinations caused them to be interesting by keeping them.,2,0
+resultative,schematic,"For her father, it was an actual loss of control, which was translated into a terrible car accident that miraculously left the family unharmed.",The family was unharmed before the terrible car accident left them.,0,0
+resultative,schematic,"For her father , it was an actual loss of control , which was translated into a terrible car accident that miraculously left the family unharmed .",The family was not unharmed before the terrible car accident left them.,2,2
+causative-with-CxN,partial,They even wondered how an individual who was causing harm with his attitude would be accepted .,Harm contains his attitude.,2,1
+causative-with-CxN,partial,They even wondered how an individual who was causing harm with his attitude would be accepted .,His attitude is not contained within harm.,0,1
+resultative,schematic,"I see something wrong , I 'm a stickler for the rules .",I cause something to be wrong by seeing it.,2,1
+resultative,schematic,"I see something wrong , I 'm a stickler for the rules .",I did not cause something to be wrong by seeing it.,0,1
+resultative,schematic,And the disenfranchised want them perfect because we have so few .,The disenchfranchised cause them to be perfect by wanting them.,2,1
+resultative,schematic,And the disenfranchised want them perfect because we have so few .,The disenchfranchised do not cause them to be perfect by wanting them.,0,1
+causative-with-CxN,partial,Mayfield opened the game with confidence and brilliance.,Mayfield caused the game to contain confidence and brilliance.,0,1
+causative-with-CxN,partial,Mayfield opened the game with confidence and brilliance.,Mayfield did not cause the game to contain confidence and brilliance.,2,2
+causative-with-CxN,partial,"Luis Cruz, a Mexican infielder, helped him break the ice with teammates.",The ice contains his teammates.,2,1
+causative-with-CxN,partial,"Luis Cruz, a Mexican infielder, helped him break the ice with teammates.",The ice does not contain his teammates.,0,1
+causative-with-CxN,partial,I knew it would bring problems with his coach.,It caused his coach to be contained in his problems.,2,1
+causative-with-CxN,partial,I knew it would bring problems with his coach.,His coach is not contained in his problems.,0,1
+causative-with-CxN,partial,Tunney clutched a middle strand with his left glove and balanced himself with his right glove touching the canvas .,He caused his right glove to be contained in himself.,2,1
+causative-with-CxN,partial,Tunney clutched a middle strand with his left glove and balanced himself with his right glove touching the canvas .,He didn't cause his right glove to be contained in himself.,0,2
+causative-with-CxN,partial,"Trout didn't pitch well after escaping the Yankees , but Whitson has pitched creditably for San Diego , the team he rejected when he joined the Yankees with a 53-56 career record .",The Yankees did not contain a 53-56 career record.,0,2
+causative-with-CxN,partial,"Trout didn't pitch well after escaping the Yankees , but Whitson has pitched creditably for San Diego , the team he rejected when he joined the Yankees with a 53-56 career record .",The Yankees contained a 53-56 career record.,2,1
+causative-with-CxN,partial,"Second , and perhaps more important , he has raced this year with Lasix , a controversial diuretic that is prescribed as a treatment for bleeding but is banned in New York .",He caused this year to contain Lasix.,2,1
+causative-with-CxN,partial,"Second , and perhaps more important , he has raced this year with Lasix , a controversial diuretic that is prescribed as a treatment for bleeding but is banned in New York .",He did not cause this year to contain Lasix.,0,1
+conative,partial,"Saturday, Carmen Reyes was excited at the prospect of hearing from the senator she's back in both her senate campaigns.",Carmen Reyes made an excited movement towards the prospect of hearing from the senator she's back in both her senate campaigns.,1,0
+conative,partial,"Saturday, Carmen Reyes was excited at the prospect of hearing from the senator she's back in both her senate campaigns.",Carmen Reyes did not move towards the prospect of hearing from the senator. ,1,2
+conative,partial,The SVD will be placed at the center of the Belle II detector.,There will be at least one placing motion in the direction of the center.,0,1
+conative,partial,The SVD will be placed at the center of the Belle II detector.,The SVD will not necessarily make contact with the center.,2,1
+conative,partial,"Jones, however, scoffed at the notion that folks didn't know who they were voting for.",Jones made at least one physical scoffing motion in the direction of the notion that folks didn't know who they were voting for.,1,0
+conative,partial,"Jones, however, scoffed at the notion that folks didn't know who they were voting for.",Jones didn't make at least one physical scoffing motion in the direction of the notion that folks didn't know who they were voting for.,1,2
+conative,partial,"I watch the women, their legs crossed at the ankles, try to look as if they don't sweat at all.",Their legs made a crossing motion towards their ankles.,2,1
+conative,partial,"I watch the women, their legs crossed at the ankles, try to look as if they don't sweat at all.",Their ankles were not the target of their crossing motion.,0,1
+conative,partial,"With the score tied at 66-66 , the Pistons Vinnie Johnson and three of Isiah Thomas 's six fourth-quarter assists .",The score made a motion towards 66-66.,2,1
+conative,partial,"With the score tied at 66-66 , the Pistons Vinnie Johnson and three of Isiah Thomas 's six fourth-quarter assists .",66-66 was the target of the score's tying.,2,1
+conative,partial,"But Curry , who coached at and graduated from Georgia Tech , said he had felt pressure to leave from external forces that resented a so-called outsider 's coaching the Crimson Tide .",Georgia Tech was the target of Curry's coaching.,2,1
+conative,partial,"But Curry , who coached at and graduated from Georgia Tech , said he had felt pressure to leave from external forces that resented a so-called outsider 's coaching the Crimson Tide .",Curry did not make a motion in the direction of Georgia Tech.,0,1
+conative,partial,"I've played at Nebraska , coached at Iowa , coached in two Rose Bowls .",I made a motion in the direction of Nebraska.,2,1
+conative,partial,"I've played at Nebraska , coached at Iowa , coached in two Rose Bowls .",Nebraska was not the target of my playing.,0,1
+conative,partial,"Kevin Maas sat at his locker , rubbed his hands over his face and tried to wipe away his weariness .",Kevin Maas made a motion in the direction of his locker.,2,1
+intransitive-motion,schematic,"You must audition to be admitted into the program , which charges tuition .",You change locations by being admitted into the program.,2,1
+intransitive-motion,schematic,"You must audition to be admitted into the program , which charges tuition .",You don't change locations by being admitted into the program.,0,1
+intransitive-motion,schematic,"Johnson was inducted into the Tennessee Sports Hall of Fame in 1972 , the National Softball Hall of Fame in 1976 and the Southern Amateur Boxing Hall of Fame in 1980 .",Johnson changed locations by being inducted.,2,1
+intransitive-motion,schematic,"Johnson was inducted into the Tennessee Sports Hall of Fame in 1972 , the National Softball Hall of Fame in 1976 and the Southern Amateur Boxing Hall of Fame in 1980 .",Johnson stayed in the same place.,1,1
+intransitive-motion,schematic,The Tairona lived and farmed on terraces carved into the steep hillside.,The terraces changed locations into the steep hillside by being carved.,2,1
+intransitive-motion,schematic,The Tairona lived and farmed on terraces carved into the steep hillside.,The terraces did not change locations.,0,1
+intransitive-motion,schematic,"At age 12 , he was arrested for the first time , caught breaking into a subway gum machine .",He traveled into a subway gum machine by breaking into it.,2,0
+intransitive-motion,schematic,"At age 12 , he was arrested for the first time , caught breaking into a subway gum machine .",He did not change locations.,1,1
+intransitive-motion,schematic,The N.F.L. is expanding into college football .,The N.F.L. is changing locations.,1,1
+intransitive-motion,schematic,The N.F.L. is expanding into college football .,The N.F.L. is staying in the same place.,1,2
+intransitive-motion,schematic,"FROM a distance , he looks untouched and unchanged from the images burned into worldwide consciousness two years ago .",The images changed physical locations by burning.,2,1
+intransitive-motion,schematic,"FROM a distance , he looks untouched and unchanged from the images burned into worldwide consciousness two years ago .",The images stayed in the same place.,1,1
+intransitive-motion,schematic,"At Stanford , such fears erupted into angry confrontations last administration and overly ambitious building program were endangering the school 's scientific competitiveness .",Such fears changed locations through erupting.,2,1
+intransitive-motion,schematic,"At Stanford , such fears erupted into angry confrontations last administration and overly ambitious building program were endangering the school 's scientific competitiveness .","At Stanford, such fears did not change locations.",0,1
+caused-motion,schematic,"I became enraged , to the point where I said things to Sulaiman I should n't have .",I caused things to change locations by saying them.,2,1
+caused-motion,schematic,"I became enraged , to the point where I said things to Sulaiman I should n't have .",I did not cause anything to change locations.,0,1
+caused-motion,schematic,I had to prove myself to him .,I did not cause myself to change locations.,1,1
+caused-motion,schematic,I had to prove myself to him .,I stayed in the same place.,1,1
+caused-motion,schematic,"Banks said he wanted to draw attention to the N.C.A.A. 's eligibility rules , which he believes are unclear and unfair .",Attention changed locations by being drawn.,0,1
+caused-motion,schematic,"Banks said he wanted to draw attention to the N.C.A.A. 's eligibility rules , which he believes are unclear and unfair .",Attention stayed in the same place.,2,1
+caused-motion,schematic,"A former Canadian sprint champion , he had begun coaching Johnson in 1977 and introduced him to drugs four years later , convinced that most other leading athletes were also using them .",He traveled to drugs by being introduced to them.,2,1
+caused-motion,schematic,"A former Canadian sprint champion , he had begun coaching Johnson in 1977 and introduced him to drugs four years later , convinced that most other leading athletes were also using them .",He changed locations.,1,1
+caused-motion,schematic,"Without proof of site control , for instance , the Government might award money to projects that fall through .",Money changes locations by being awarded.,0,1
+caused-motion,schematic,"Without proof of site control , for instance , the Government might award money to projects that fall through .",Money stays in the same place.,2,1
+caused-motion,schematic,"A source , who was not identified , recounted the exchange to The Associated Press .",The exchange changed locations.,2,1
+caused-motion,schematic,"A source , who was not identified , recounted the exchange to The Associated Press .",The exchange stayed in the same place.,0,1
+caused-motion,schematic,"Still , Stanford and other universities are resigning themselves to an environment in which they will no longer have the freedom they once had to build laboratories and charge costs to the Government .",Stanford and other universities are traveling by resigning themselves.,2,1
+caused-motion,schematic,"Still , Stanford and other universities are resigning themselves to an environment in which they will no longer have the freedom they once had to build laboratories and charge costs to the Government .",Stanford and other universities are staying in the same place.,0,1

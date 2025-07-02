@@ -1,0 +1,391 @@
+CxG,schematicity,Premise,Hypothesis,Gold,Prediction
+let-alone,substantive,"A ceasefire, let alone lasting peace, will take long negotiation.",There will be peaceful negotiation of a ceasefire.,1,1
+let-alone,substantive,"A ceasefire, let alone lasting peace, will take long negotiation.",Negotiating lasting peace will take less time than negotiating a ceasefire.,2,2
+let-alone,substantive,"A ceasefire, let alone lasting peace, will take long negotiation.","It will take long negotiation to achieve a ceasefire, and even longer negotiation to achieve lasting peace.",0,0
+let-alone,substantive,It is difficult enough for an individual to be consistent let alone a society.,Both individuals and society will be consistent after difficulty.,1,2
+let-alone,substantive,It is difficult enough for an individual to be consistent let alone a society.,It is easier for a society to be consistent than an individual.,2,2
+let-alone,substantive,It is difficult enough for an individual to be consistent let alone a society.,It is easier for an individual to be consistent than a society.,0,0
+let-alone,substantive,"I would be distressed to hear of any ladies reading it, let alone a girl of your tender years and experience.","I would be distressed to hear of any ladies reading it, let alone a girl living in Ohio.",1,1
+let-alone,substantive,"I would be distressed to hear of any ladies reading it, let alone a girl of your tender years and experience.","I would like to hear of ladies reading anything they like, no matter the age of them.",2,2
+let-alone,substantive,"I would be distressed to hear of any ladies reading it, let alone a girl of your tender years and experience.",I would be distressed to hear of a girl of your tender years and experience reading it.,0,0
+let-alone,substantive,"None of these arguments is notably strong, let alone conclusive.",The arguments are not presented in a convincing order.,1,1
+let-alone,substantive,"None of these arguments is notably strong, let alone conclusive.",All of the given arguments are strong and conclusive.,2,2
+let-alone,substantive,"None of these arguments is notably strong, let alone conclusive.",None of these arguments is conclusive.,0,0
+let-alone,substantive,"Even so, such vague promises are no grounds for satisfaction, let alone complacency.",Ambiguous promises given are not to be happily accepted.,1,0
+let-alone,substantive,"Even so, such vague promises are no grounds for satisfaction, let alone complacency.",The speaker is more complacent than satisfied when hearing vague promises.,2,2
+let-alone,substantive,"Even so, such vague promises are no grounds for satisfaction, let alone complacency.",The promises given are vague and the speaker will not be satisfied nor complacent.,0,0
+let-alone,substantive,"Mr Brown claimed that the Government had failed to face the failures of the present, let alone the challenges of the future.",Mr Brown claimed that the Government had failed to adequately tax the aging population who would be retiring in the near future.,1,1
+let-alone,substantive,"Mr Brown claimed that the Government had failed to face the failures of the present, let alone the challenges of the future.",The Government always owns up to failures committed by them throughout the years and everyone else agrees.,2,2
+let-alone,substantive,"Mr Brown claimed that the Government had failed to face the failures of the present, let alone the challenges of the future.",Mr. Brown stated that the Government is not prepared to face the challenges of the future.,0,0
+let-alone,substantive,There must have been text books around at one time but I can not even identify any titles let alone suppliers.,The speaker does not often read text books if they cannot identify any.,1,1
+let-alone,substantive,There must have been text books around at one time but I can not even identify any titles let alone suppliers.,"The speaker knows a lot about text books, including their titles and where they might come from.",2,2
+let-alone,substantive,There must have been text books around at one time but I can not even identify any titles let alone suppliers.,"The speaker can deduce textbooks exist, but cannot identify any titles or thier suppliers.",0,0
+let-alone,substantive,"Most of my friends haven't been outside Australia, let alone been all over the world.",I have friends who have been to other countries outside Australia.,1,1
+let-alone,substantive,"Most of my friends haven't been outside Australia, let alone been all over the world.",I only have friends who have been to countries outside Australia.,2,2
+let-alone,substantive,"Most of my friends haven't been outside Australia, let alone been all over the world.","I have a lot of friends who haven't traveled around the world, or even been outside Australia.",0,0
+way-manner,partial,"As she felt her way forward, suddenly a knight on horseback galloped past her.",She was moving forward when a knight on horseback almost ran her over.,1,1
+way-manner,partial,"As she felt her way forward, suddenly a knight on horseback galloped past her.","As she was moving forward, a knight on horseback stopped to help her along.",2,2
+way-manner,partial,"As she felt her way forward, suddenly a knight on horseback galloped past her.","As she was moving forward, a knight on horseback went past her.",0,0
+way-manner,partial,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.,A snake-like pattern might appear on your screen when you run a specific program into your personal computer.,1,0
+way-manner,partial,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.,"Nothing shows up on your computer when you run this specific program, much less something that resembles a snake.",2,2
+way-manner,partial,If you type in the following program exactly as listed and run it you will see a fascinating pattern snake its way across your screen.,There's a cool snake pattern that could appear on your screen when you follow the given program and run it exactly right.,0,0
+way-manner,partial,Thus a miner who slipped from the worn and greasy rungs was liable to fall a long way and a dropped tool could clatter its way down to cause death or injury to some fellow below.,A miner has tools that are valuable and costly to replace if dropped from high above while climbing.,1,2
+way-manner,partial,Thus a miner who slipped from the worn and greasy rungs was liable to fall a long way and a dropped tool could clatter its way down to cause death or injury to some fellow below.,"A miner does not usually have tools that could ever cause injury to others, even if they were to be climbing high above someone below them and slip on a ladder.",2,2
+way-manner,partial,Thus a miner who slipped from the worn and greasy rungs was liable to fall a long way and a dropped tool could clatter its way down to cause death or injury to some fellow below.,A miner could cause death or injury to an unsuspecting personal below them if they were to slip from worn out rungs and fall or drop a tool from their person.,0,0
+way-manner,partial,"She stared from one to the other, feeling apprehension shiver its cold way along her spine.","She stared from one to the other, feeling apprehension at their suggestion that she go out without a coat.",1,1
+way-manner,partial,"She stared from one to the other, feeling apprehension shiver its cold way along her spine.","Staring from one to the other, the girl felt only confidence and strength in her body.",2,2
+way-manner,partial,"She stared from one to the other, feeling apprehension shiver its cold way along her spine.",She felt apprehension course through her body as she stared from one to the other.,0,0
+way-manner,partial,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.,We picked out all of the best songs from our favorite German operas and sang our way across the rest of Europe.,1,1
+way-manner,partial,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.,We sat in uncomfortable silence as we travelled across the rest of Europe.,2,2
+way-manner,partial,We picked out all of the best songs from the tapes and sang our way across the rest of Europe.,We had tapes playing the best picked songs we sang to across our trip of Europe.,0,0
+way-manner,partial,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them.","Big, bosomy women love to eat a box of bisuits near them at work, even though coworkers can hear them crunching away the whole time.",1,1
+way-manner,partial,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them.","She was a big, bosomy woman who could work without a box of biscuits on the desk beside her, and Sarella could hear how quiet it was without her crunching through them.",2,2
+way-manner,partial,"She was a big, bosomy woman who couldn't work without a box of biscuits on the desk beside her, and Sarella could hear her now, crunching her way through them.","Sarella could hear her now, a big, bosomy woman crunching her way through a box of biscuits on her desk beside her she couldn't work without.",0,0
+way-manner,partial,A middle-aged man eased his way into the room.,A man who was no longer young moved carefully into a particular room.,1,0
+way-manner,partial,A middle-aged man eased his way into the room.,A middle-aged man could not get into the room.,2,2
+way-manner,partial,A middle-aged man eased his way into the room.,A man of maybe fifty years moved carefully into the room.,0,0
+way-manner,partial,I yawned my way back to the Narrow Neck.,I yawned three times on my journey to the Narrow Neck.,1,1
+way-manner,partial,I yawned my way back to the Narrow Neck.,I was energized on my way back to Narrow Neck.,2,2
+way-manner,partial,I yawned my way back to the Narrow Neck.,I yawned at least once on my journey back to the Narrow Neck.,0,0
+way-manner,partial,It was an easy matter to buy my way on to the same flight.,I bought my flight ticket with ease onto the same flight as other passengers.,1,0
+way-manner,partial,It was an easy matter to buy my way on to the same flight.,It was a hard feat to buy my way onto the same flight.,2,2
+way-manner,partial,It was an easy matter to buy my way on to the same flight.,It came easily for me to buy a ticket on the same flight.,0,0
+way-manner,partial,Constance squeezed her way down the platform looking for the first-class carriages.,Constance was looking for first-class carriages to take a ride on.,1,0
+way-manner,partial,Constance squeezed her way down the platform looking for the first-class carriages.,Constance waited in line for the first-class carriages.,2,2
+way-manner,partial,Constance squeezed her way down the platform looking for the first-class carriages.,Constance was looking for first-class carriages as she squeezed her way down to the platform.,0,0
+way-manner,partial,The practical man thought his way through these apparent obstacles.,The practical man thought about the obstacles to his finding an affordable home.,1,1
+way-manner,partial,The practical man thought his way through these apparent obstacles.,The careless man did not have to think about his easy going life.,2,2
+way-manner,partial,The practical man thought his way through these apparent obstacles.,The practical man had obstacles he could think his way through.,0,0
+resultative,schematic,"The research for this article was MADE possible by grants from the Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University .","The research for this article was MADE possible by record-breakingly enormous grants from the Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University .",1,1
+resultative,schematic,"The research for this article was MADE possible by grants from the Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University .","The research for this article was not made possible by grants from the following organizations: the Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University.",2,2
+resultative,schematic,"The research for this article was MADE possible by grants from the Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University .","The Wenner-Gren Foundation , the Institute of Turkish Studies , and the Sachar Fund of Brandeis University all made grants to a research article that was only possible because of them.",0,0
+resultative,schematic,The Court 's apparent detachment from politics is MADE possible by its nonelective status .,The Court 's apparent detachment from politics is clear from the stately décor of the courtroom.,1,1
+resultative,schematic,The Court 's apparent detachment from politics is MADE possible by its nonelective status .,The Court 's apparent attachment to politics is made possible by its elective status .,2,2
+resultative,schematic,The Court 's apparent detachment from politics is MADE possible by its nonelective status .,The Court has a nonelective status that makes their apparent detachment from politics possible.,0,0
+resultative,schematic,Justin Timberlake MAKES Alcoholism Fun In The New Rom-Com The Last Drop,Justin Timberlake sings a hit song in a new rom-com called The Last Drop that deals with alcoholism.,1,1
+resultative,schematic,Justin Timberlake MAKES Alcoholism Fun In The New Rom-Com The Last Drop,Justin Timberlake does not make alcoholism look fun in the old rom-com The Last Drop.,2,2
+resultative,schematic,Justin Timberlake MAKES Alcoholism Fun In The New Rom-Com The Last Drop,Justin Timberlake is in a new rom-com called The Last Drop where he makes alcoholism interesting.,0,0
+resultative,schematic,This nice man probably just wanted Mother to KISS him unconscious.,This nice man has a mother who will kiss him to the point of unconsciousness.,1,0
+resultative,schematic,This nice man probably just wanted Mother to KISS him unconscious.,This bad man has a mother that he never wants to lay a kiss on him.,2,2
+resultative,schematic,This nice man probably just wanted Mother to KISS him unconscious.,"This nice man probably just wanted Mother to kiss him, causing him to be unconscious.",0,0
+resultative,schematic,I had BRUSHED my hair very smooth.,I had brushed my hair until it felt soft.,1,0
+resultative,schematic,I had BRUSHED my hair very smooth.,I had brushed my nonexistent hair roughly.,2,2
+resultative,schematic,I had BRUSHED my hair very smooth.,I had very smooth hair because I brushed it.,0,0
+resultative,schematic,You KILLED it stone-dead.,You killed someone.,1,2
+resultative,schematic,You KILLED it stone-dead.,You caused it to be more alive.,2,2
+resultative,schematic,You KILLED it stone-dead.,It was stone-dead as a result of you killing it.,0,0
+resultative,schematic,The tools were WIPED clean.,The tools were cleaned with a cloth.,1,1
+resultative,schematic,The tools were WIPED clean.,The tools were extremely dirty.,2,2
+resultative,schematic,The tools were WIPED clean.,The tools were clean because they were wiped.,0,0
+resultative,schematic,The river FROZE solid.,The river was cold.,1,0
+resultative,schematic,The river FROZE solid.,The river had melted into liquid.,2,2
+resultative,schematic,The river FROZE solid.,The river is frozen solid.,0,0
+resultative,schematic,It BROKE apart.,It broke into pieces by hand.,1,1
+resultative,schematic,It BROKE apart.,It was put together.,2,2
+resultative,schematic,It BROKE apart.,It was severed into more than one piece.,0,0
+resultative,schematic,He HAMMERED the metal flat.,He was making a sword by hammering metal.,1,1
+resultative,schematic,He HAMMERED the metal flat.,He enflated the metal into a balloon.,2,2
+resultative,schematic,He HAMMERED the metal flat.,He flattened the metal by hammering.,0,0
+resultative,schematic,The dog BARKED the chickens awake.,The dog likes to wake the chickens up by barking.,1,1
+resultative,schematic,The dog BARKED the chickens awake.,The dog was silent because there were chickens.,2,2
+resultative,schematic,The dog BARKED the chickens awake.,The chickens woke to the dog's bark.,0,0
+resultative,schematic,Terry WIPED the table clean.,Terry had cleaned the table to eat.,1,1
+resultative,schematic,Terry WIPED the table clean.,Terry wiped the table with a greasy rag until it was black.,2,2
+resultative,schematic,Terry WIPED the table clean.,The table was clean because Terry wiped it down.,0,0
+resultative,schematic,Terry PUSHED the door shut.,Terry closed the door with his side.,1,1
+resultative,schematic,Terry PUSHED the door shut.,Terry opened the door wide.,2,2
+resultative,schematic,Terry PUSHED the door shut.,Terry shut the door by pushing it closed.,0,0
+resultative,schematic,He ATE himself sick.,He ate questionably fresh shellfish.,1,1
+resultative,schematic,He ATE himself sick.,He didn't eat.,2,2
+resultative,schematic,He ATE himself sick.,He felt sick from eating.,0,0
+resultative,schematic,She COUGHED herself sick.,She coughed too much from choking.,1,1
+resultative,schematic,She COUGHED herself sick.,Her coughing resulted in her feeling better.,2,2
+resultative,schematic,She COUGHED herself sick.,She got sick from coughing.,0,0
+resultative,schematic,The jackhammer POUNDED us deaf.,The jackhammer pounding sometimes reaches 130 decibels.,1,1
+resultative,schematic,The jackhammer POUNDED us deaf.,The jackhammer was easy on our ears.,2,2
+resultative,schematic,The jackhammer POUNDED us deaf.,We were deaf from the jackhammering.,0,0
+resultative,schematic,Water FILLED the tub half full.,The half-full tub was dirty.,1,1
+resultative,schematic,Water FILLED the tub half full.,Water drained from the tub.,2,2
+resultative,schematic,Water FILLED the tub half full.,The tub was half full of water.,0,0
+resultative,schematic,The sleeping pills MADE me sick.,I took sleeping pills before bed.,1,1
+resultative,schematic,The sleeping pills MADE me sick.,The sleeping pills make me feel good.,2,2
+resultative,schematic,The sleeping pills MADE me sick.,I was sick from the sleeping pills I took.,0,0
+resultative,schematic,Harry SHOT Sam dead.,Harry hated Sam all of his life.,1,1
+resultative,schematic,Harry SHOT Sam dead.,Harry saved Sam's life.,2,2
+resultative,schematic,Harry SHOT Sam dead.,Sam died from the shot Harry took.,0,0
+resultative,schematic,Sam TALKED himself hoarse.,Sam likes to talk.,1,1
+resultative,schematic,Sam TALKED himself hoarse.,Sam's talking made his voice clearer.,2,2
+resultative,schematic,Sam TALKED himself hoarse.,Sam's voice was hoarse from talking.,0,0
+resultative,schematic,He PAINTED his house a bright shade of red.,His house was previously a darker color.,1,1
+resultative,schematic,He PAINTED his house a bright shade of red.,He scraped off the red paint from his house.,2,2
+resultative,schematic,He PAINTED his house a bright shade of red.,His house was bright red from paint.,0,0
+resultative,schematic,She KICKED the door open.,She needed to get into the house quickly.,1,1
+resultative,schematic,She KICKED the door open.,She slowly opened the door.,2,2
+resultative,schematic,She KICKED the door open.,The door was open from her kick.,0,0
+conative,partial,She tugged at the glass door.,She had a sliding glass door to her backyard.,1,1
+conative,partial,She tugged at the glass door.,She made no motion towards the glass door.,2,2
+conative,partial,She tugged at the glass door.,She attempted to tug the glass door.,0,1
+conative,partial,He tugged at the puppy's ears.,He had a puppy with long ears.,1,1
+conative,partial,He tugged at the puppy's ears.,He pushed the puppy's ears.,2,2
+conative,partial,He tugged at the puppy's ears.,The puppy's ears were tugged by him.,0,0
+conative,partial,"I kicked at the door a couple of times, but it didn't budge.",I tried to break my door down to leave my house.,1,1
+conative,partial,"I kicked at the door a couple of times, but it didn't budge.",The door swung open immediately from one kick.,2,2
+conative,partial,"I kicked at the door a couple of times, but it didn't budge.",The door didn't budge from my multiple kicks at it.,0,0
+conative,partial,Henry Edison kicked at the tire on the old automobile.,Henry Edison had gotten a flat on his old automobile.,1,1
+conative,partial,Henry Edison kicked at the tire on the old automobile.,Hendy Edison shined his tire on his new automobile.,2,2
+conative,partial,Henry Edison kicked at the tire on the old automobile.,Henry Edison tried to kick the tire on the old automobile.,0,0
+conative,partial,Luke kicked at the chair leg with the toe of his leather half-boot.,Luke tested the durability of the chair with his shoe.,1,1
+conative,partial,Luke kicked at the chair leg with the toe of his leather half-boot.,Luke pushed the chair away with his tennis shoe.,2,2
+conative,partial,Luke kicked at the chair leg with the toe of his leather half-boot.,The chair leg was kicked at with Luke's toe of his leather half-boot.,0,0
+conative,partial,He looked down and poked at the keyboard.,He was typing on his computer.,1,1
+conative,partial,He looked down and poked at the keyboard.,He looked up at his computer screen.,2,1
+conative,partial,He looked down and poked at the keyboard.,He looked down and made poking motions in the direction of the keyboard.,0,0
+conative,partial,Mary Elizabeth jumped up and poked at the potatoes.,Mary Elizabeth was testing the softness of the potatoes.,1,1
+conative,partial,Mary Elizabeth jumped up and poked at the potatoes.,Mary Elizabeth stared at the potatoes but made no move towards them.,2,2
+conative,partial,Mary Elizabeth jumped up and poked at the potatoes.,The potatoes were poked at as Mary Elizabeth jumped up.,0,0
+conative,partial,I poked at the ice cubes in my drink.,I had a straw in my cold drink.,1,1
+conative,partial,I poked at the ice cubes in my drink.,I left the ice cubes in my drink alone.,2,2
+conative,partial,I poked at the ice cubes in my drink.,I moved around ice cubes in my drink.,0,0
+conative,partial,Marco lost his balance and grabbed at the ladder railing.,Marco had been up very high on a ladder.,1,1
+conative,partial,Marco lost his balance and grabbed at the ladder railing.,Marco maintained balance and didn't need the ladder railing.,2,2
+conative,partial,Marco lost his balance and grabbed at the ladder railing.,Marco grabbed at the ladder railing as he lost his balance.,0,0
+conative,partial,I pushed at the springs with the palms of my hands.,I tried to fix the springs in the toy.,1,1
+conative,partial,I pushed at the springs with the palms of my hands.,I released the springs with the tips of my fingers.,2,2
+conative,partial,I pushed at the springs with the palms of my hands.,I pushed the palms of my hands against the springs.,0,0
+conative,partial,His belly pushed at the buttons of his white and blue Aloha shirt.,His belly pushed at the buttons of the hotel elevator through his shirt.,1,2
+conative,partial,His belly pushed at the buttons of his white and blue Aloha shirt.,The white and blue Aloha shirt hung on his thin frame.,2,2
+conative,partial,His belly pushed at the buttons of his white and blue Aloha shirt.,The white and blue Aloha shirt buttons stretched over his belly.,0,0
+conative,partial,He pushed at the doorbell.,He wanted to see if someone was home.,1,1
+conative,partial,He pushed at the doorbell.,He hovered over the doorbell.,2,2
+conative,partial,He pushed at the doorbell.,The doorbell was pushed at by him.,0,0
+conative,partial,"I took a washcloth and wet it, then rubbed at the mark.",I had a mark on my body I needed to wash off.,1,1
+conative,partial,"I took a washcloth and wet it, then rubbed at the mark.",I took a dry washcloth and hovered over the mark.,2,2
+conative,partial,"I took a washcloth and wet it, then rubbed at the mark.",I rubbed at the mark with a wet washcloth.,0,0
+conative,partial,He rubbed at the raw bite wound on his throat.,He had a fresh bite on his neck.,1,0
+conative,partial,He rubbed at the raw bite wound on his throat.,His rubbing came nowhere close to the raw bite wound on his throat.,2,2
+conative,partial,He rubbed at the raw bite wound on his throat.,His throat had a raw bite wound he rubbed at.,0,0
+conative,partial,I rubbed at the ache in my neck.,I slept on my neck wrong.,1,1
+conative,partial,I rubbed at the ache in my neck.,I didn't touch my alleviated neck.,2,2
+conative,partial,I rubbed at the ache in my neck.,I had an ache in my neck I rubbed at.,0,0
+conative,partial,Lily plucked at the ribbons on her dress.,Lily was wearing a decorated dress.,1,1
+conative,partial,Lily plucked at the ribbons on her dress.,Lily made no attempt to touch the ribbons on her dress.,2,2
+conative,partial,Lily plucked at the ribbons on her dress.,There were ribbons on Lily's dress she plucked at.,0,0
+conative,partial,He stabbed at the last part of the equation.,The last part of the equation was the most complex.,1,1
+conative,partial,He stabbed at the last part of the equation.,He drew attention away from the last part of the equation.,2,2
+conative,partial,He stabbed at the last part of the equation.,He made a stabbing gesture towards the last part of the equation.,0,0
+conative,partial,I took the plastic dome from my drink and stabbed at the slush with the straw.,I tried to drink the last bits of the slushee with my straw.,1,1
+conative,partial,I took the plastic dome from my drink and stabbed at the slush with the straw.,I kept the lid on my drink and slurped the slush with my straw.,2,2
+conative,partial,I took the plastic dome from my drink and stabbed at the slush with the straw.,I stabbed at the slush with the straw after I took the lid off my drink.,0,0
+conative,partial,"She took the cup and sipped at the coffee, closing her eyes and breathing in the steam.","She enjoyed a cup of hot coffee, as it warmed her face and hands.",1,1
+conative,partial,"She took the cup and sipped at the coffee, closing her eyes and breathing in the steam.","She took the cold cup and didn't drink it, realizing her coffee was cold.",2,2
+conative,partial,"She took the cup and sipped at the coffee, closing her eyes and breathing in the steam.","She took the cup and closed her eyes, as she breathed in the steam of her cup of coffee she was sipping.",0,0
+conative,partial,I sipped at the Heineken.,I had a bottle of beer.,1,1
+conative,partial,I sipped at the Heineken.,I spit out the Heineken.,2,2
+conative,partial,I sipped at the Heineken.,I had some Heineken.,0,0
+conative,partial,He raised his glass and sipped at the champagne with everyone else.,He toasted together with everyone using glasses of champagne.,1,0
+conative,partial,He raised his glass and sipped at the champagne with everyone else.,He lowered his glass and didn't sip the champagne with everyone else.,2,2
+conative,partial,He raised his glass and sipped at the champagne with everyone else.,"With everyone else, he tasted the champagne and raised his glass.",0,0
+conative,partial,Phil nibbled at the cake.,Phil was too full for cake.,1,1
+conative,partial,Phil nibbled at the cake.,Phil didn't try the cake.,2,2
+conative,partial,Phil nibbled at the cake.,Phil ate some cake.,0,0
+conative,partial,"He nibbled at the filet, then ate ravenously.",He didn't realize how hungry he was for food.,1,1
+conative,partial,"He nibbled at the filet, then ate ravenously.","He took big bites of the filet, then slowed down.",2,2
+conative,partial,"He nibbled at the filet, then ate ravenously.","He ate ravenously, after small bites of the filet.",0,0
+conative,partial,"He kissed her in return, then brushed at the lipstick he knew she had left behind.","She had worn lipstick that day, not knowing she would be kissed.",1,1
+conative,partial,"He kissed her in return, then brushed at the lipstick he knew she had left behind.",He didn't touch her because of the lipstick she had that would smear on him.,2,2
+conative,partial,"He kissed her in return, then brushed at the lipstick he knew she had left behind.","He wiped at the lipstick he knew she had left behind, after he had kissed her in return.",0,0
+conative,partial,"He studied her face, brushed at the hair that tumbled over her shoulders.",She had long hair past her shoulders that he moved away.,1,0
+conative,partial,"He studied her face, brushed at the hair that tumbled over her shoulders.",He didn't look her in the face or touch her hair that tumbled over her shoulders.,2,2
+conative,partial,"He studied her face, brushed at the hair that tumbled over her shoulders.","As he studied her face, he made a brushing movement at the hair tumbling over her shoulders.",0,0
+conative,partial,Someone hammered at the front door.,Someone was trying to get in the house.,1,1
+conative,partial,Someone hammered at the front door.,Someone didn't touch the front door.,2,2
+conative,partial,Someone hammered at the front door.,The front door was hammered by someone.,0,0
+intransitive-motion,schematic,"We don't want anyone to SLIP through the cracks, spokesman Charles Powell said.",Charles Powell is a spokesman who is speaking on the behalf of others.,1,1
+intransitive-motion,schematic,"We don't want anyone to SLIP through the cracks, spokesman Charles Powell said.","We want people to slip through the cracks,  spokesman Charles Powell said.",2,2
+intransitive-motion,schematic,"We don't want anyone to SLIP through the cracks, spokesman Charles Powell said.","Spokesman Charles Powell had said, ""We don't want anyone to slip through the cracks.""",0,0
+intransitive-motion,schematic,The Weweantic River FLOWS through the pond.,There is a river called the Weantic River.,1,1
+intransitive-motion,schematic,The Weweantic River FLOWS through the pond.,The Weweantic River does not flow through the pond.,2,2
+intransitive-motion,schematic,The Weweantic River FLOWS through the pond.,Water from the Weweantic River moves through the pond.,0,0
+intransitive-motion,schematic,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.,In Cambodia several hundred people MARCHED through the capital to appeal for an end to prescription drug abuse.,1,1
+intransitive-motion,schematic,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.,In Cambodia few people walked through the capital Phnom Penh to deny an end to growing drug use.,2,2
+intransitive-motion,schematic,In Cambodia several hundred people MARCHED through the capital Phnom Penh to appeal for an end to growing drug use.,Several hundred people marched to appeal the end of growing drug use in Cambodia through the capital Phnom Penh.,0,0
+intransitive-motion,schematic,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.,"The speaker had great memory of events, but not great balance since they fell down the stairs like that.",1,1
+intransitive-motion,schematic,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.,I don't remember at all falling down the first flight of stairs in my house onto the landing in front of the main door.,2,2
+intransitive-motion,schematic,In VERY vivid detail I remember FALLING down the first flight of stairs in my house onto the landing in front of the main door.,I fell down the first flight of stairs in my house onto the landing in front of the main door and I remember it all in very vivid detail.,0,0
+intransitive-motion,schematic,"People who SPILLED over from the ""protest"" attacked their car as it went down Regent Street.",An innocent person was driving down Regent Street when their car was attacked by protestors.,1,1
+intransitive-motion,schematic,"People who SPILLED over from the ""protest"" attacked their car as it went down Regent Street.","People who spilled over from the ""protest"" quietly watched their car as it went down Regent Street. (AMR)",2,2
+intransitive-motion,schematic,"People who SPILLED over from the ""protest"" attacked their car as it went down Regent Street.","Their car was attacked by people who spilled over from the ""protest"" as it went down Regent Street.",0,0
+intransitive-motion,schematic,"Marchers will PROCEED on Pine St. to Broadway, to Market.",Marchers will proceed on Market until they reach the capital building.,1,1
+intransitive-motion,schematic,"Marchers will PROCEED on Pine St. to Broadway, to Market.",Marchers will stop at Pine St and not continue to Broadway nor Market.,2,2
+intransitive-motion,schematic,"Marchers will PROCEED on Pine St. to Broadway, to Market.","From Pine St., to Broadway, then to Market marchers will continue.",0,0
+intransitive-motion,schematic,"Thousands of mine workers and supporters plan to MARCH around the headquarters of Peabody Energy in St. Louis this coming Tuesday, Sept. 24th.","Mine workers and supporters are protesting for fair wages at the Peabody Energy in St. Louis on this coming Tuesday, Sept. 24th.",1,1
+intransitive-motion,schematic,"Thousands of mine workers and supporters plan to MARCH around the headquarters of Peabody Energy in St. Louis this coming Tuesday, Sept. 24th.","No mine workers or supporters plan to march around the headquarters of Peabody Energy in St. Louis this coming Tuesday, Sept. 24th.",2,2
+intransitive-motion,schematic,"Thousands of mine workers and supporters plan to MARCH around the headquarters of Peabody Energy in St. Louis this coming Tuesday, Sept. 24th.","This coming Tuesday, Sept. 24th at Peabody Energy in St. Louis thousands of mine workers and supporters plan to march around the headquarters.",0,0
+intransitive-motion,schematic,"He was beginning to be afraid he had come to the wrong planet , when a coil of gold , the color of the moonlight , FLASHED across the sand .","The man had vistied a totally different planet covered in sand that had looked like the wrong one, when a light flashed across the sand.",1,1
+intransitive-motion,schematic,"He was beginning to be afraid he had come to the wrong planet , when a coil of gold , the color of the moonlight , FLASHED across the sand .","He was not afraid that he had come to the wrong planet, when a coil of gold, the color of moonlight, flashed across the sand.",2,2
+intransitive-motion,schematic,"He was beginning to be afraid he had come to the wrong planet , when a coil of gold , the color of the moonlight , FLASHED across the sand .","A coil of gold, the color of moonlight, flashed across the sand as he was beginning to be afraid he had come to the wrong planet.",0,0
+intransitive-motion,schematic,I RAN around the track.,I run professionally.,1,1
+intransitive-motion,schematic,I RAN around the track.,I walked around the track.,2,2
+intransitive-motion,schematic,I RAN around the track.,I circled the track by running.,0,0
+intransitive-motion,schematic,I DROVE through the tunnel.,I was driving in my car,1,1
+intransitive-motion,schematic,I DROVE through the tunnel.,I avoided the tunnel.,2,2
+intransitive-motion,schematic,I DROVE through the tunnel.,I went throught the tunnel by driving.,0,0
+intransitive-motion,schematic,We DROVE past the hotel.,We DROVE all the way to the next city.,1,1
+intransitive-motion,schematic,We DROVE past the hotel.,We drove straight to the hotel.,2,2
+intransitive-motion,schematic,We DROVE past the hotel.,We were driving when we went past the hotel.,0,0
+intransitive-motion,schematic,The plane FLEW over the Grand Canyon.,The plane flew to its destination of California.,1,1
+intransitive-motion,schematic,The plane FLEW over the Grand Canyon.,The plane didn't pass over the Grand Canyon.,2,2
+intransitive-motion,schematic,The plane FLEW over the Grand Canyon.,The plane was flying when it went over the Grand Canyon.,0,0
+intransitive-motion,schematic,I DRIVE past Watkins Landing every morning and evening .,I pass by Watkins Landing on my way into work and back home.,1,0
+intransitive-motion,schematic,I DRIVE past Watkins Landing every morning and evening .,I avoid going past Watkins Landing every morning and evening.,2,2
+intransitive-motion,schematic,I DRIVE past Watkins Landing every morning and evening .,My driving route goes past Watkins Landing every morning and evening .,0,0
+intransitive-motion,schematic,I COMMUTE back and forth to work on the Huguenot Trail .,I commute by bike to stay healthy and enjoy the views from the Huguenot Trail.,1,1
+intransitive-motion,schematic,I COMMUTE back and forth to work on the Huguenot Trail .,I go around the Hugenot Trail as I go back and forth to work.,2,2
+intransitive-motion,schematic,I COMMUTE back and forth to work on the Huguenot Trail .,I take the Hugenot Trail back and forth to work.,0,0
+intransitive-motion,schematic,"Dade County and federal authorities, learning that he intended to FLY through Miami, made plans to arrest him on the gun-running charges as soon as he hit U.S. soil.","Dade County and federal authorities, who are famous for daring arrests, made plans to arrest him on the gun-running charges as soon as he hit U.S. soil.",1,1
+intransitive-motion,schematic,"Dade County and federal authorities, learning that he intended to FLY through Miami, made plans to arrest him on the gun-running charges as soon as he hit U.S. soil.","Dade County and federal authorities, didn't know that he intended to FLY through Miami, so they didn't make plans to arrest him on the gun-running charges as soon as he hit U.S. soil.",2,2
+intransitive-motion,schematic,"Dade County and federal authorities, learning that he intended to FLY through Miami, made plans to arrest him on the gun-running charges as soon as he hit U.S. soil.",Dade County and federal authorities made plans to arrest him on the gun-running charges as soon as he touched U.S. soil once they learned he intended to fly into Miami.,0,0
+intransitive-motion,schematic,"Oguz said that anyone FLYING over the major opium producing areas would see a lot of small fires in the mountains, which are heroin labs.",Major opium producing areas that house heroin labs are able to be spotted by looking for small fires from high above.,1,0
+intransitive-motion,schematic,"Oguz said that anyone FLYING over the major opium producing areas would see a lot of small fires in the mountains, which are heroin labs.","Oguz said that anyone FLYING over the major opium producing areas would not be able to see any small fires in the mountains, which are heroin labs.",2,2
+intransitive-motion,schematic,"Oguz said that anyone FLYING over the major opium producing areas would see a lot of small fires in the mountains, which are heroin labs.","Anyone would be able to see a lot of small fires in the mountains, which are heroin labs, if you are flying over major opium producing areas said Oguz.",0,0
+intransitive-motion,schematic,"Each year , over 50,000 migratory birds FLY over Hong Kong 's skyscrapers and choose to roost for winter here .","Each year , over 50,000 migratory birds FLY over Hong Kong 's skyscrapers and have inspired beautiful art for generations.",1,1
+intransitive-motion,schematic,"Each year , over 50,000 migratory birds FLY over Hong Kong 's skyscrapers and choose to roost for winter here .","Each year , over 50,000 migratory birds go around Hong Kong 's skyscrapers and choose to not roost for winter here .",2,2
+intransitive-motion,schematic,"Each year , over 50,000 migratory birds FLY over Hong Kong 's skyscrapers and choose to roost for winter here .","Over 50,000 migratory birds choose to roost for winter each year as they fly over Hong Kong's skyscrapers.",0,0
+intransitive-motion,schematic,But it's all FLYING right over your head.,They are not understanding the point.,1,0
+intransitive-motion,schematic,But it's all FLYING right over your head.,But it's all sticking in your head.,2,2
+intransitive-motion,schematic,But it's all FLYING right over your head.,But it's all going right over your head.,0,0
+intransitive-motion,schematic,"It will be like you're FLOATING along fine, then in an instant, you are caught up in this huge swell of the urge to smoke.",Quitting smoking may imrove your ability to swim and complete other cardiovascular exercises.,1,2
+intransitive-motion,schematic,"It will be like you're FLOATING along fine, then in an instant, you are caught up in this huge swell of the urge to smoke.","It will be like you're stopped, unable to move, then finally you are freed by the urge to smoke.",2,2
+intransitive-motion,schematic,"It will be like you're FLOATING along fine, then in an instant, you are caught up in this huge swell of the urge to smoke.",In an instant you will be caught up in this huge urge to smoke after feeling like you're floating along fine.,0,0
+intransitive-motion,schematic,The law will probably JUMP back and forth in the coming years.,Laws change all the time throughout the years.,1,1
+intransitive-motion,schematic,The law will probably JUMP back and forth in the coming years.,The law will probably stay the same in the coming years.,2,2
+intransitive-motion,schematic,The law will probably JUMP back and forth in the coming years.,In the coming years the law will most likely jump back and forth.,0,0
+intransitive-motion,schematic,The 23 frantically SCRAMBLED to the rear of the sub.,The 23 are scared the sub is sinking.,1,1
+intransitive-motion,schematic,The 23 frantically SCRAMBLED to the rear of the sub.,The 23 were calm at the rear of the sub.,2,2
+intransitive-motion,schematic,The 23 frantically SCRAMBLED to the rear of the sub.,The rear of the sub had 23 frantically scrambling towards it.,0,0
+intransitive-motion,schematic,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.,There is a criminal named Gomshadzehi who did not care about the lives of others or himself when he carried out his crimes in 2003.,1,1
+intransitive-motion,schematic,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.,IRNA reported that Gomshadzehi helped a policeman and was captive in Dubai in the United Arab Emirates while trafficking drugs in 2003.,2,2
+intransitive-motion,schematic,IRNA reported that Gomshadzehi killed a policeman and then ESCAPED to Dubai in the United Arab Emirates while trafficking drugs in 2003.,It was report by IRNA that Gomshadzehi escaped to Dubai in the United Arab Emirates after killing a policeman while trafficking drugs in 2003.,0,0
+intransitive-motion,schematic,Armed troops MARCHED to the substations and turned the power back on.,Armed troops MARCHED to the substations that powered over half of the city.,1,1
+intransitive-motion,schematic,Armed troops MARCHED to the substations and turned the power back on.,Armed troops left the substations and turned the power off.,2,2
+intransitive-motion,schematic,Armed troops MARCHED to the substations and turned the power back on.,The power was turned back on by armed troops that marched to the substations.,0,0
+caused-motion,schematic,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network SMUGGLING heroin from Cambodia to Australia via Vietnam.,"The Vietnam News Agency, which has earned several prizes for journalism, said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network SMUGGLING heroin.",1,1
+caused-motion,schematic,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network SMUGGLING heroin from Cambodia to Australia via Vietnam.,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network hoarding and keeping heroin strictly in Cambodia.,2,2
+caused-motion,schematic,The Vietnam News Agency said Australian national Tran Van Thanh was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network SMUGGLING heroin from Cambodia to Australia via Vietnam.,"Tran Van Thanh, an Australian national, was arrested on 30 June 2003 in the southern Vietnam city of dalat for Tran's involvement in a network smuggling heroin from Cambodia to Australia via Vietnam said the Vietnam News Agency.",0,0
+caused-motion,schematic,Myanmar has no reported H5N1 cases but Indian officials suspect that poultry could be SMUGGLED through Myanmar from Thailand.,Poultry smuggling from Thailand is the main way that disease and crime spreads to Myanmar.,1,1
+caused-motion,schematic,Myanmar has no reported H5N1 cases but Indian officials suspect that poultry could be SMUGGLED through Myanmar from Thailand.,Myanmar has reported H5N1 cases but Indian officials suspect that poultry could be removed from Myanmar to Thailand.,2,2
+caused-motion,schematic,Myanmar has no reported H5N1 cases but Indian officials suspect that poultry could be SMUGGLED through Myanmar from Thailand.,Indian officials suspect that poultry could be smuggled through Myanmar from Thailand even though there's no reported H5N1 cases in Myanmar.,0,0
+caused-motion,schematic,"After the seven hundred passengers on the train were stranded for two hours , they were GUIDED through the tunnels to a safe place .","After the seven hundred passengers on the train were stranded for two hours, they were determined to find another way to get to work.",1,2
+caused-motion,schematic,"After the seven hundred passengers on the train were stranded for two hours , they were GUIDED through the tunnels to a safe place .","After the seven hundred passengers on the train were stranded for two hours , they were led away from the tunnels to a safe place .",2,0
+caused-motion,schematic,"After the seven hundred passengers on the train were stranded for two hours , they were GUIDED through the tunnels to a safe place .","Seven hundred passengers were guided through the tunnels to a safe place, after they were stranded on the train for two hours.",0,0
+caused-motion,schematic,If any of you think that someone from Headquarters Marine Corps care about you once they KICK you out the door talk to a retiree.,"If any of you think that someone from Headquarters Marine Corps care about you once you retire, then check out how many retirees live in Florida.",1,2
+caused-motion,schematic,If any of you think that someone from Headquarters Marine Corps care about you once they KICK you out the door talk to a retiree.,"If any of you think that someone from Headquarters Marine Corps care about you once they kick you out the door, don't bother talking to a retiree.",2,2
+caused-motion,schematic,If any of you think that someone from Headquarters Marine Corps care about you once they KICK you out the door talk to a retiree.,Talk to a retiree if any of you think that someone from Headquarters Marine Corps care about you once they kick you out the door.,0,0
+caused-motion,schematic,I can't WRAP my head around how any of this was allowed to happen.,It is challenging for them to understand what is allowed to happen.,1,1
+caused-motion,schematic,I can't WRAP my head around how any of this was allowed to happen.,I can understand perfectly how this was allowed to happen.,2,2
+caused-motion,schematic,I can't WRAP my head around how any of this was allowed to happen.,"How any of this was allowed to happen, I can't wrap my head around.",0,0
+caused-motion,schematic,The MiG-25 FIRED an AAM at the Predator.,The MiG-25 is well-equipped compared to the Predator.,1,1
+caused-motion,schematic,The MiG-25 FIRED an AAM at the Predator.,The MiG-25 ceased fire at the Predator.,2,2
+caused-motion,schematic,The MiG-25 FIRED an AAM at the Predator.,The Predator had an AAM fired at them by the MiG-25.,0,0
+caused-motion,schematic,"Pope was FLOWN to the U.S. military base at Ramstein, Germany.","Pope was FLOWN to the U.S. military base in Germany, where he stayed for weeks.",1,1
+caused-motion,schematic,"Pope was FLOWN to the U.S. military base at Ramstein, Germany.","Pope didn't fly to the U.S. military base at Ramstein, Germany.",2,2
+caused-motion,schematic,"Pope was FLOWN to the U.S. military base at Ramstein, Germany.","It was the military base at Ramstein, Germany that Pope was flown to.",0,0
+caused-motion,schematic,Australian Schapelle Corby was convicted of TRAFFICKING marijuana into Bali and jailed for 20 years.,"Schapelle Corby, who was Australian, got caught and was imprisoned for something illegal.",1,0
+caused-motion,schematic,Australian Schapelle Corby was convicted of TRAFFICKING marijuana into Bali and jailed for 20 years.,Australian Schapelle Corby was convicted of removing marijuana from Bali and jailed for 20 years.,2,2
+caused-motion,schematic,Australian Schapelle Corby was convicted of TRAFFICKING marijuana into Bali and jailed for 20 years.,Australian Schapelle Corby was jailed for 20 years because he was convicted of trafficking marijuana into Bali.,0,0
+caused-motion,schematic,The Pakistan-born man was then DEPORTED to the United Kingdom on 070713.,The man from Pakistan went against his will to the United Kingdom for a crime committed.,1,1
+caused-motion,schematic,The Pakistan-born man was then DEPORTED to the United Kingdom on 070713.,The Pakistan-born man was then allowed to stay in the United Kingdom on 070713.,2,2
+caused-motion,schematic,The Pakistan-born man was then DEPORTED to the United Kingdom on 070713.,On 070713 the Pakistan-born man was then deported to the United Kingdom.,0,0
+caused-motion,schematic,The pilot refused to ALLOW the Pakistan-born man onto the pilot's plane.,The Pakistan-born man was a threat to the pilot on the pilot's plane.,1,1
+caused-motion,schematic,The pilot refused to ALLOW the Pakistan-born man onto the pilot's plane.,The pilot insisted on allowing the Pakistan-born man onto the pilot's plane.,2,2
+caused-motion,schematic,The pilot refused to ALLOW the Pakistan-born man onto the pilot's plane.,The Pakistan-born man was refused by the pilot to be allowed onto the pilot's plane.,0,0
+caused-motion,schematic,"China confirmed on January 23, 2007 after 12 days of silence that China had FIRED a guided missile into space to destroy one of its satellites.","China confirmed on January 23, 2007 after 12 days of silence that China had FIRED a guided missile, JL-2 ""Ju Lang"" 2, into space.",1,1
+caused-motion,schematic,"China confirmed on January 23, 2007 after 12 days of silence that China had FIRED a guided missile into space to destroy one of its satellites.","China denied on January 23, 2007 after 12 days of noise that China had fired a guided missile into space to destroy one of its satellites.",2,2
+caused-motion,schematic,"China confirmed on January 23, 2007 after 12 days of silence that China had FIRED a guided missile into space to destroy one of its satellites.","China had fired a guided missile into space to destroy one of its satellites then confirmed this on January 23, 2007 after 12 days of silence.",0,0
+caused-motion,schematic,"Chinese officials stated on May 14, 2007 that China had LAUNCHED a Chinese manufactured communications satellite into orbit on behalf of Nigeria.",It was reported on the Chinese news in May of 2007 that China had sent a Chinese satellite into space to fulfill Nigeria's needs of communication.,1,0
+caused-motion,schematic,"Chinese officials stated on May 14, 2007 that China had LAUNCHED a Chinese manufactured communications satellite into orbit on behalf of Nigeria.","Chinese officials stated on May 14, 2007 that China had returned a Chinese manufactured communications satellite from orbit back to earth on behalf of Nigeria.",2,2
+caused-motion,schematic,"Chinese officials stated on May 14, 2007 that China had LAUNCHED a Chinese manufactured communications satellite into orbit on behalf of Nigeria.","A Chinese manufactured communications satellite was launched into orbit by China on behalf of Nigeria the Chinese officials stated on May 14, 2007.",0,0
+causative-with-CxN,partial,Kevin lifted the trumpet and filled the room with happy noise.,Kevin lifted the trumpet and played to an audience that filled the room.,1,1
+causative-with-CxN,partial,Kevin lifted the trumpet and filled the room with happy noise.,Kevin lowered the trumpet and filled the room with silence.,2,2
+causative-with-CxN,partial,Kevin lifted the trumpet and filled the room with happy noise.,Kevin lifted the trumpet and made happy noise in the room.,0,0
+causative-with-CxN,partial,Dude has filled the room with flowers and teddy bears and cheesy cards.,A man filled the room with sweet things for his significant other.,1,1
+causative-with-CxN,partial,Dude has filled the room with flowers and teddy bears and cheesy cards.,Dude has emptied the room of flowers and teddy bears and cheesy cards.,2,2
+causative-with-CxN,partial,Dude has filled the room with flowers and teddy bears and cheesy cards.,Dude has moved flowers and teddy bears and cheesy cards into the room.,0,0
+causative-with-CxN,partial,An enormous chandelier filled the room with a stunning display of reflected light.,The room had a grand crystal chandelier displayed in its center.,1,1
+causative-with-CxN,partial,An enormous chandelier filled the room with a stunning display of reflected light.,A small chandelier filled the room with an ordinary display of reflected light.,2,2
+causative-with-CxN,partial,An enormous chandelier filled the room with a stunning display of reflected light.,A stunning display of reflected light filled the room from the enormous chandeleir.,0,0
+causative-with-CxN,partial,"Freshly ground coffee beans filled the room with a seductive, earthy aroma.",Aromatic coffee beans were ground for a fresh cup of coffee.,1,1
+causative-with-CxN,partial,"Freshly ground coffee beans filled the room with a seductive, earthy aroma.","Stale whole coffee beans filled the room with an unattractive, otherworldly scent.",2,2
+causative-with-CxN,partial,"Freshly ground coffee beans filled the room with a seductive, earthy aroma.","The room was filled with a seductive, earthly aroma from freshly ground coffee beans.",0,0
+causative-with-CxN,partial,The Grateful Dead have flooded the market with excellent live material.,The Grateful Dead have put out live recordings of their best concert that took place at a market flooded with fans.,1,1
+causative-with-CxN,partial,The Grateful Dead have flooded the market with excellent live material.,The Grateful Dead have not released any good live material on the market.,2,2
+causative-with-CxN,partial,The Grateful Dead have flooded the market with excellent live material.,Excellent live material has flooded the market from The Grateful Dead.,0,0
+causative-with-CxN,partial,Samsung has flooded the market with their advertising.,"Samsung has flooded the market with tasteful, funny ads.",1,1
+causative-with-CxN,partial,Samsung has flooded the market with their advertising.,Samsung has held back with their advertising.,2,2
+causative-with-CxN,partial,Samsung has flooded the market with their advertising.,The market is flooded with Samsung's advertising.,0,0
+causative-with-CxN,partial,Saudi flooded the market with cheap oil then so they could recover their market share.,Saudi flooded the market with cheap oil that was sold to at least five countries.,1,1
+causative-with-CxN,partial,Saudi flooded the market with cheap oil then so they could recover their market share.,Saudi reduced the market's supply of cheap oil so they could deteriorate their market share.,2,2
+causative-with-CxN,partial,Saudi flooded the market with cheap oil then so they could recover their market share.,"To recover their market share, Saudi flooded the market with cheap oil.",0,0
+causative-with-CxN,partial,The Chinese already have flooded the market with juice-grade apples.,"The Chinese have the largest, juiciest apples on the market.",1,1
+causative-with-CxN,partial,The Chinese already have flooded the market with juice-grade apples.,The Chinese already have under produced in the market with juice-grade apples.,2,2
+causative-with-CxN,partial,The Chinese already have flooded the market with juice-grade apples.,Juice-grade apples have already been flooded in the market by the Chinese.,0,0
+causative-with-CxN,partial,Turning to the wall he covered his face with a pillow.,He turned his face to the wall and covered it out of embarrassment.,1,1
+causative-with-CxN,partial,Turning to the wall he covered his face with a pillow.,Turning away fromt he wall he uncovered his face with a pillow.,2,2
+causative-with-CxN,partial,Turning to the wall he covered his face with a pillow.,He covered his face with a pillow as he turned toward the wall.,0,0
+causative-with-CxN,partial,"The school filled his head with knowledge, challenged him with tests, quizzes, and homework.","The school imparted pertinent, real-world knowledge and challenged him with tests, quizzes and homework.",1,1
+causative-with-CxN,partial,"The school filled his head with knowledge, challenged him with tests, quizzes, and homework.","The school emptied his head of knowledge, easing him with tests, quizzes, and homework.",2,2
+causative-with-CxN,partial,"The school filled his head with knowledge, challenged him with tests, quizzes, and homework.","The school challenged him with tests, quizzes, and homework, filled his head with knowledge.",0,0
+causative-with-CxN,partial,"Susan trapped him, filled his head with lies.","Susan was a trapper by trade, specializing in mink hats.",1,2
+causative-with-CxN,partial,"Susan trapped him, filled his head with lies.","Susan let him free, cleared his head of lies.",2,2
+causative-with-CxN,partial,"Susan trapped him, filled his head with lies.","Susan filled his head with lies, trapped him.",0,0
+causative-with-CxN,partial,"They made him take pills that filled his head with cold, silent noise.",They made him take pills that were supposed to ease his headache.,1,1
+causative-with-CxN,partial,"They made him take pills that filled his head with cold, silent noise.","They made him give away pills that emptied his head of cold, silent noise.",2,2
+causative-with-CxN,partial,"They made him take pills that filled his head with cold, silent noise.","His head was filled with cold, silent noise from pills they made him take.",0,0
+causative-with-CxN,partial,One of the teachers came along and covered her body with a black sheet.,"There are other teachers, but one was trying to conceal her body with a sheet.",1,1
+causative-with-CxN,partial,One of the teachers came along and covered her body with a black sheet.,One of the teachers left after removing a black sheet from her body.,2,2
+causative-with-CxN,partial,One of the teachers came along and covered her body with a black sheet.,One of the teachers covered her body with a black sheet after she came along.,0,0
+causative-with-CxN,partial,Howze filled her house with music and color.,Howze was the best roommate she had ever had.,1,1
+causative-with-CxN,partial,Howze filled her house with music and color.,Howze emptied her house of music and color.,2,2
+causative-with-CxN,partial,Howze filled her house with music and color.,The house was filled with music and color by Howze.,0,0
+causative-with-CxN,partial,The cork came out with a pleasant pop and he filled her glass with the rich red liquid.,The red wine bottle was opened by him and he poured her a glass full of it.,1,0
+causative-with-CxN,partial,The cork came out with a pleasant pop and he filled her glass with the rich red liquid.,The cork came out with a horrible pop and he emptied her glass of the rich red liquid.,2,2
+causative-with-CxN,partial,The cork came out with a pleasant pop and he filled her glass with the rich red liquid.,He filled her glass with the rich red liquid that came from opening the cork with a pleasant pop.,0,0
+causative-with-CxN,partial,The waiter filled her glass with white wine.,She ordered the white wine in a glass.,1,1
+causative-with-CxN,partial,The waiter filled her glass with white wine.,The waiter emptied her glass of white wine.,2,2
+causative-with-CxN,partial,The waiter filled her glass with white wine.,Her glass was filled with white wine by the waiter.,0,0
+causative-with-CxN,partial,Virginia Woolf filled her pockets with rocks and walked into a river.,"After filling her pockets with rocks, Virginia Woolf walked into a river famous for its clear waters.",1,1
+causative-with-CxN,partial,Virginia Woolf filled her pockets with rocks and walked into a river.,Virginia Woolf emptied her pockets of rocks and walked away from the river.,2,2
+causative-with-CxN,partial,Virginia Woolf filled her pockets with rocks and walked into a river.,Virginia Woolf walked into a river after filling her pockets with rocks.,0,0
+causative-with-CxN,partial,A blizzard soon covered their bodies with snow.,Blizzards can be fun for children playing in the snow.,1,1
+causative-with-CxN,partial,A blizzard soon covered their bodies with snow.,A blizzard soon took snow away from their bodies.,2,2
+causative-with-CxN,partial,A blizzard soon covered their bodies with snow.,Their bodies were soon covered with snow from the blizzard.,0,0
+comparative-correlative,partial,"The harder they come, the harder they fall.",They are likely to be injured if they fall hard.,1,1
+comparative-correlative,partial,"The harder they come, the harder they fall.",How hard they fall is dependent on their actions.,0,1
+comparative-correlative,partial,"The harder they come, the harder they fall.",They will fall softly regardless of how hard they come at me.,2,2
+comparative-correlative,partial,"The longer he is around, the more miserable I will be.",He has a very annoying voice.,1,1
+comparative-correlative,partial,"The longer he is around, the more miserable I will be.","If he is around longer today, I will probably not enjoy myself.",0,0
+comparative-correlative,partial,"The longer he is around, the more miserable I will be.",I'm happiest on the days where he is around a lot.,2,2
+comparative-correlative,partial,"The more I studied, the less I understood.",I studied a lot for my recent exams.,1,1
+comparative-correlative,partial,"The more I studied, the less I understood.",I got more confused as I studied.,0,0
+comparative-correlative,partial,"The more I studied, the less I understood.",I felt like my studying helped me really grasp the subject.,2,2
+comparative-correlative,partial,"It seems the older the patient, the less effective the drug.",This drug can be harmful for older patients.,1,1
+comparative-correlative,partial,"It seems the older the patient, the less effective the drug.",This drug is best suited for treating patients who are on the younger side.,0,0
+comparative-correlative,partial,"It seems the older the patient, the less effective the drug.",Ideally patients that take this drug are advanced in age.,2,2
+comparative-correlative,partial,"Applied to health care, the longer we wait for it the worse off we are and the longer we put it off the longer it will take to fine tune it.",Waiting longer for healthcare will make it more expensive to implement.,1,1
+comparative-correlative,partial,"Applied to health care, the longer we wait for it the worse off we are and the longer we put it off the longer it will take to fine tune it.",Putting off adequate healthcare will not serve the people's best interests.,0,0
+comparative-correlative,partial,"Applied to health care, the longer we wait for it the worse off we are and the longer we put it off the longer it will take to fine tune it.",It's probably best to keep putting off applying healthcare reforms.,2,2
+comparative-correlative,partial,"The more bureaucrats run charities, the more people who need them.",Bureaucrats are always greedy.,1,1
+comparative-correlative,partial,"The more bureaucrats run charities, the more people who need them.",Bureaucrats are always greedy.,0,1
+comparative-correlative,partial,"The more bureaucrats run charities, the more people who need them.",Bureaucrats are always greedy.,2,1
+comparative-correlative,partial,"The more expensive the decision, the more will senior management be involved.",Senior management is always micromanaging our decisions.,1,2
+comparative-correlative,partial,"The more expensive the decision, the more will senior management be involved.",Senior management likes to oversee decisions that are most likely to cost a lot of money.,0,1
+comparative-correlative,partial,"The more expensive the decision, the more will senior management be involved.",Senior management doesn't care much about the cost of potential decisions.,2,2
+comparative-correlative,partial,"Now then, the faster that we can do this, the faster we can get on with the game.",The game will be fun.,1,1
+comparative-correlative,partial,"Now then, the faster that we can do this, the faster we can get on with the game.",We have to do this before the game can start.,0,2
+comparative-correlative,partial,"Now then, the faster that we can do this, the faster we can get on with the game.",We don't have to do this before the game starts.,2,2
+comparative-correlative,partial,"The more snow, the less danger there is to skiers.",More snow makes skiers go faster down the slopes.,1,1
+comparative-correlative,partial,"The more snow, the less danger there is to skiers.",It's most safe to ski if there has been a substantial snowfall recently.,0,0
+comparative-correlative,partial,"The more snow, the less danger there is to skiers.",It is too dangerous to ski on days when there was heavy snow recently.,2,2
+comparative-correlative,partial,"The more they work, the more I will pay them.",My workers always work very hard.,1,1
+comparative-correlative,partial,"The more they work, the more I will pay them.",I intend to compensate my workers based on their amount of work.,0,0
+comparative-correlative,partial,"The more they work, the more I will pay them.",I never pay my workers.,2,2
